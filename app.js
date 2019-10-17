@@ -11,7 +11,6 @@ var req = unirest("GET", "https://wordsapiv1.p.rapidapi.com/words/hatchback/type
 
 req.headers({
 	"x-rapidapi-host": "wordsapiv1.p.rapidapi.com",
-	"x-rapidapi-key": "4a0a9d7d1cmshd592e3155a948f3p1ee0dfjsn57de095afac7"
 });
 
 
