@@ -2,7 +2,6 @@ html{
     position: absolute;
 }
 body{
-    width: auto ;
     height: 100%;
-    background-image: url("/book.jpeg") 
+    background-image: url("/book.jpeg");
 }
